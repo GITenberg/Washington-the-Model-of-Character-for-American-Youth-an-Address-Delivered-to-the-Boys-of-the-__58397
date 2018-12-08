@@ -1,11 +1,16 @@
 _repo: Washington-the-Model-of-Character-for-American-Youth-an-Address-Delivered-to-the-Boys-of-the-__58397
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58397-h/images/cover.jpg
 creator:
   author:
     agent_name: McJilton, J. N.
     gutenberg_agent_id: '49929'
     url: http://www.gutenberg.org/2009/agents/49929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58397#Washington-the-Model-of-Character-for-American-Youth-an-Address-Delivered-to-the-Boys-of-the-_
 gutenberg_issued: '2018-12-02'
 gutenberg_type: Text
 identifiers:
